@@ -23,7 +23,7 @@ szczegółowych informacji o każdym kontakcie, w tym klikalnego numeru telefonu
 ![Ekran główny oraz Widok dodawania użytkownika i edytowania](./src/assets/screenshots/nr1.png)
 
 ### Widok edytowania
-(./src/assets/screenshots/nr2.png)
+![Widok edytowania](./src/assets/screenshots/nr2.png)
 
 ## 🚀 Jak uruchomić projekt
 1. Sklonuj repozytorium:
