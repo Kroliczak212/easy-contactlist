@@ -1,0 +1,25 @@
+input {
+    margin-bottom: 12px;
+    padding: 12px;
+    width: 100%;
+    background-color: #3f3e3e;
+    color: white;
+    text-align: center;
+}
+input::placeholder {
+    color: white;
+}
+button {
+    padding: 8px 16px;
+    border: none;
+    cursor: pointer;
+    margin: 10px;
+    width: 40%;
+}
+
+
+
+
+
+
+
