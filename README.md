@@ -1,8 +1,30 @@
-# React + Vite
+# Lista Kontaktów 📋
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+    "Lista Kontaktów" to aplikacja napisana w React, umożliwiająca zarządzanie listą kontaktów. Użytkownik może dodawać, edytować oraz usuwać kontakty. Aplikacja pozwala również na wyświetlanie szczegółowych informacji o każdym kontakcie, w tym klikalnego numeru telefonu.
 
-Currently, two official plugins are available:
+## 📋 Funkcjonalności
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+    📞 Dodawanie kontaktów: Użytkownik może dodać nowe kontakty, podając imię, numer telefonu i miasto.
+    ✏️ Edycja kontaktów: Możliwość edytowania istniejących kontaktów.
+    ❌ Usuwanie kontaktów: Usuwanie wybranych kontaktów z listy.
+    🔍 Wyświetlanie szczegółów: Rozwijanie karty kontaktu, aby zobaczyć jego szczegóły, takie jak numer telefonu i miasto.
+    🖤 Interaktywny interfejs: Intuicyjny interfejs użytkownika ułatwiający zarządzanie kontaktami.
+
+## 🛠️ Technologie
+    React – Komponenty funkcyjne.
+    Vite – Szybkie budowanie aplikacji.
+    Css - Stylizacja.
+    Dodatkowe funkcje:
+
+## 📷 Zrzut ekranu aplikacji
+
+### Ekran główny oraz Widok dodawania użytkownika i edytowania
+(./src/assets/screenshots/nr1.png)
+
+### Ekran główny oraz Widok dodawania użytkownika i edytowania
+(./src/assets/screenshots/nr2.png)
+
+## 🚀 Jak uruchomić projekt
+1. Sklonuj repozytorium:
+   ```bash
+   git clone https://github.com/Kroliczak212/easy-contactlist.git
