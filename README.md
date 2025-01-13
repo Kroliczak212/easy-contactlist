@@ -1,13 +1,15 @@
 # Lista Kontaktów 📋
 
-    "Lista Kontaktów" to aplikacja napisana w React, umożliwiająca zarządzanie listą kontaktów. Użytkownik może dodawać, edytować oraz usuwać kontakty. Aplikacja pozwala również na wyświetlanie szczegółowych informacji o każdym kontakcie, w tym klikalnego numeru telefonu.
+    "Lista Kontaktów" to aplikacja napisana w React, umożliwiająca zarządzanie listą kontaktów. 
+Użytkownik może dodawać, edytować oraz usuwać kontakty. Aplikacja pozwala również na wyświetlanie 
+szczegółowych informacji o każdym kontakcie, w tym klikalnego numeru telefonu.
 
 ## 📋 Funkcjonalności
 
     📞 Dodawanie kontaktów: Użytkownik może dodać nowe kontakty, podając imię, numer telefonu i miasto.
     ✏️ Edycja kontaktów: Możliwość edytowania istniejących kontaktów.
     ❌ Usuwanie kontaktów: Usuwanie wybranych kontaktów z listy.
-    🔍 Wyświetlanie szczegółów: Rozwijanie karty kontaktu, aby zobaczyć jego szczegóły, takie jak numer telefonu i miasto.
+    🔍 Wyświetlanie szczegółów: Rozwijanie karty kontaktu, aby zobaczyć jego szczegóły.
     🖤 Interaktywny interfejs: Intuicyjny interfejs użytkownika ułatwiający zarządzanie kontaktami.
 
 ## 🛠️ Technologie
